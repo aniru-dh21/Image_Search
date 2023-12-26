@@ -56,3 +56,5 @@ VITE_API_KEY=367ykb9dWL9AlAIAsK9Sz2ga8t5xPNeYFcf70xwCGbA
 - Now, navigate to <a href="https://unsplash.com/documentation">Unsplash Documentation</a> and click on the `Search photos by keyword` section.
 
 - And copy the following base API URL: `https://api.unsplash.com/search/photos`.
+
+- Now, open `App.jsx` file and paste the copied URL as `API_URL` after all import statement, like this:
