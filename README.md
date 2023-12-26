@@ -2,3 +2,4 @@
 
 By building this app, I learned:
 - How to build an application using Unsplash API in React
+- How to make API Calls in different scenarios
