@@ -43,3 +43,5 @@ npm run dev
   - Enter values for `Application name` and `Description` and click `Create application` button.
 
 - Scroll down a bit and copy the Access Key which is displayed on the screen.
+
+- Next, create a new `.env` file in your project and add a new environment variable with the name `VITE_API_KEY`.
