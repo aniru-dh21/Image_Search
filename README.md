@@ -29,3 +29,5 @@ npm run dev
 4. Access the application by navigating to <ins>http://127.0.0.1:5173/</ins>
 
 ## How to Get Access to the Unsplash API
+
+- Now, to implement the image search, we need to get the API key from <a href="https://unsplash.com/">Unsplash Website</a>.
