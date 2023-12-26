@@ -1,5 +1,7 @@
 # Image Search App Using React
 
+This project is built using Vite which is a popular alternative to `create-react-app`.
+
 By building this app, I learned:
 - How to build an application using Unsplash API in React
 - How to make API Calls in different scenarios
