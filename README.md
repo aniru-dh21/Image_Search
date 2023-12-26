@@ -20,3 +20,6 @@ npm install
 ```
 
 3. Run the command to access the application:
+```
+npm run dev
+```
