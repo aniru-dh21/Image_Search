@@ -33,3 +33,5 @@ npm run dev
 - Now, to implement the image search, we need to get the API key from <a href="https://unsplash.com/">Unsplash Website</a>.
 
 - Navigate to <a href="https://unsplash.com/developers">this URL</a>, and click on the "Register as a developer" button displayed at the top right corner of the page.
+
+- Create your account by entering all the necessary details.
