@@ -23,3 +23,5 @@ npm install
 ```
 npm run dev
 ```
+
+4. Access the application by navigating to <ins>http://127.0.0.1:5173/</ins>
