@@ -10,3 +10,6 @@ By building this app, I learned:
 ## Project Setup
 
 1. Clone the Repository to your local machine using ZIP File or using the following git command:
+```
+git clone https://github.com/aniru-dh21/Image_Search.git
+```
