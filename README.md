@@ -39,3 +39,4 @@ npm run dev
 - Once registered, you will be redirected to <a href="https://unsplash.com/oauth/applications">this page</a>.
 
 - Click on the `New Application` button. On the next screen:
+  - Check all the checkboxes and click on `Accept Terms` button
