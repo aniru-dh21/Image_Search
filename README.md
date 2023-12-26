@@ -6,3 +6,5 @@ By building this app, I learned:
 - How to use `useCallback` hook to avoid function re-creation
 - How to use ESLint to fix application issues
 - How to Implement Pagination in React
+
+## Project Setup
