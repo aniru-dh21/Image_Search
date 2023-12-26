@@ -13,3 +13,5 @@ By building this app, I learned:
 ```
 git clone https://github.com/aniru-dh21/Image_Search.git
 ```
+
+2. Install the dependencies using `npm`:
