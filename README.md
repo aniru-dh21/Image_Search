@@ -37,3 +37,5 @@ npm run dev
 - Create your account by entering all the necessary details.
 
 - Once registered, you will be redirected to <a href="https://unsplash.com/oauth/applications">this page</a>.
+
+- Click on the `New Application` button. On the next screen:
