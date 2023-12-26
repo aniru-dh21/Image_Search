@@ -58,3 +58,6 @@ VITE_API_KEY=367ykb9dWL9AlAIAsK9Sz2ga8t5xPNeYFcf70xwCGbA
 - And copy the following base API URL: `https://api.unsplash.com/search/photos`.
 
 - Now, open `App.jsx` file and paste the copied URL as `API_URL` after all import statement, like this:
+```
+const API_URL = 'https://api.unsplash.com/search/photos';
+```
