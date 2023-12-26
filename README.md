@@ -61,3 +61,5 @@ VITE_API_KEY=367ykb9dWL9AlAIAsK9Sz2ga8t5xPNeYFcf70xwCGbA
 ```
 const API_URL = 'https://api.unsplash.com/search/photos';
 ```
+
+- According to the documentation, the search photos API with the above URL accepts the `query`, `page` and `per_page` as the query parameters.
