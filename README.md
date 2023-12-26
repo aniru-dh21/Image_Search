@@ -8,3 +8,5 @@ By building this app, I learned:
 - How to Implement Pagination in React
 
 ## Project Setup
+
+1. Clone the Repository to your local machine using ZIP File or using the following git command:
