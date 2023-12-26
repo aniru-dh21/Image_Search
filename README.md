@@ -41,3 +41,5 @@ npm run dev
 - Click on the `New Application` button. On the next screen:
   - Check all the checkboxes and click on `Accept Terms` button
   - Enter values for `Application name` and `Description` and click `Create application` button.
+
+- Scroll down a bit and copy the Access Key which is displayed on the screen.
