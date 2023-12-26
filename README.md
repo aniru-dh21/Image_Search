@@ -35,3 +35,5 @@ npm run dev
 - Navigate to <a href="https://unsplash.com/developers">this URL</a>, and click on the "Register as a developer" button displayed at the top right corner of the page.
 
 - Create your account by entering all the necessary details.
+
+- Once registered, you will be redirected to <a href="https://unsplash.com/oauth/applications">this page</a>.
