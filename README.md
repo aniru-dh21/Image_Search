@@ -18,3 +18,5 @@ git clone https://github.com/aniru-dh21/Image_Search.git
 ```
 npm install
 ```
+
+3. Run the command to access the application:
