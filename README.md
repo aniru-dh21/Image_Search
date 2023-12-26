@@ -50,3 +50,5 @@ npm run dev
 ```
 VITE_API_KEY=367ykb9dWL9AlAIAsK9Sz2ga8t5xPNeYFcf70xwCGbA
 ```
+
+- Make sure to start the variable name with `VITE_` so it will be accessible in the application.
